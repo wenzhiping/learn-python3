@@ -29,3 +29,4 @@ def quadratic( a, b, c ):
             return x1, x2
 
 print( quadratic(2, 1, 0) )
+assd
